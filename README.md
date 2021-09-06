@@ -9,6 +9,7 @@ First part
   - build a React Website include the following:
   - An input textbox allows users to type and search. 
   - Display a text about what user has input.(like google search input)
+
 Second part
   - use API fetch from (http://www.omdbapi.com/) you can create an account for it. It is free!
   - retrieve some result from the API call base on what user have inputted
