@@ -1,7 +1,8 @@
 # Online-Movies-Catalog
+It is an Online Movie Searching website, created using React. 
 
 Description:
-An Online Movie Searching website, created using React. 
+
 I designed one search box for searching by movie names, and also created a filter box for filtering searching results based on letters or numbers.
 
 Challenge :
