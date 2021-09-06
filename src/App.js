@@ -111,7 +111,7 @@ class App extends Component{
         <br></br>
         <SearchBox
          className='filter' 
-         placeholder = 'Find a word or words' 
+         placeholder = 'Filter by letters' 
          handleChange = {this.handleChange}
         />
         <br></br><br></br>
