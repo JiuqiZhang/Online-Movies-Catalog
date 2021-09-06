@@ -1,0 +1,21 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+.filter{
+    border: 3px solid #555;
+    padding: 5px;
+    float: right;
+    font-size: 100%;
+    
+  
+}
+.search{
+    width:25%;
+    font-size: 100%;
+}
