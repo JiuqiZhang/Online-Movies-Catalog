@@ -5,7 +5,8 @@ Description:
 
 I designed one search box for searching by movie names, and also created a filter box for filtering searching results based on letters or numbers.
 
-Challenge :
+Challenge:
+
 First part
   - build a React Website include the following:
   - An input textbox allows users to type and search. 
