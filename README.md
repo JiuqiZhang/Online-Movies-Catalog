@@ -2,6 +2,7 @@
 It is an Online Movie Searching website, created using React. 
 
 Description:
+
 I designed one search box for searching by movie names, and also created a filter box for filtering searching results based on letters or numbers.
 
 Challenge:
