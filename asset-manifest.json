@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Online-Movies-Catalog/static/css/main.c624608f.chunk.css",
-    "main.js": "/Online-Movies-Catalog/static/js/main.93b21914.chunk.js",
-    "main.js.map": "/Online-Movies-Catalog/static/js/main.93b21914.chunk.js.map",
+    "main.css": "/Online-Movies-Catalog/static/css/main.82b8db89.chunk.css",
+    "main.js": "/Online-Movies-Catalog/static/js/main.ee8de20d.chunk.js",
+    "main.js.map": "/Online-Movies-Catalog/static/js/main.ee8de20d.chunk.js.map",
     "runtime-main.js": "/Online-Movies-Catalog/static/js/runtime-main.aa211e2e.js",
     "runtime-main.js.map": "/Online-Movies-Catalog/static/js/runtime-main.aa211e2e.js.map",
     "static/js/2.42cb6540.chunk.js": "/Online-Movies-Catalog/static/js/2.42cb6540.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.5302c058.chunk.js": "/Online-Movies-Catalog/static/js/3.5302c058.chunk.js",
     "static/js/3.5302c058.chunk.js.map": "/Online-Movies-Catalog/static/js/3.5302c058.chunk.js.map",
     "index.html": "/Online-Movies-Catalog/index.html",
-    "static/css/main.c624608f.chunk.css.map": "/Online-Movies-Catalog/static/css/main.c624608f.chunk.css.map",
+    "static/css/main.82b8db89.chunk.css.map": "/Online-Movies-Catalog/static/css/main.82b8db89.chunk.css.map",
     "static/js/2.42cb6540.chunk.js.LICENSE.txt": "/Online-Movies-Catalog/static/js/2.42cb6540.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Online-Movies-Catalog/static/media/dark-background.43cfdcf4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aa211e2e.js",
     "static/js/2.42cb6540.chunk.js",
-    "static/css/main.c624608f.chunk.css",
-    "static/js/main.93b21914.chunk.js"
+    "static/css/main.82b8db89.chunk.css",
+    "static/js/main.ee8de20d.chunk.js"
   ]
 }
